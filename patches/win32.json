@@ -1,0 +1,18 @@
+{
+  "name": "Windows 32-bit",
+  "orig_sha256": "a00031a7e7b0e2b113cf23400f9c006e067fc9c6814dd9b0fa4ccc8fa5863b8e",
+  "ops": [
+    {
+      "i1": 3743281,
+      "i2": 3743282,
+      "orig_hex": "08",
+      "new_hex": "09"
+    },
+    {
+      "i1": 3743290,
+      "i2": 3743291,
+      "orig_hex": "08",
+      "new_hex": "09"
+    }
+  ]
+}
