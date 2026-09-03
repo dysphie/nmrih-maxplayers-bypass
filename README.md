@@ -12,5 +12,5 @@ I'll make this a proper MetaMod extension at some point, maybe.
 # Or patch them yourself
 
 * Install Python.
-* Run `binpatch.py` on the binary, e.g. `python binpatch.py apply server.so`.
+* Run `binpatch.py` on the binary, e.g. `python binpatch.py apply server_srv.so`.
 * Grab the `_patched` file, rename it, and upload it to your server.
